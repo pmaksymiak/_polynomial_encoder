@@ -1,5 +1,6 @@
 
 Polynomial Encoder - creates polynomial function that goes through all the specified points (defined int the form of string in python script).
+
 I thought I can use it to pack information, and then later pass  polynomial formula with co-efficients into the decoder, to recreate original message, unfortunetely during decoding due to the polynomial interpolation being not accurate enough - decoding does not work as intended. 
 
 Something like this can be used in Shamir's Secret Sharing scheme.
