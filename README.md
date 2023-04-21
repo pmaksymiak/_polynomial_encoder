@@ -24,4 +24,4 @@ Scalability: The scheme can handle any number of participants, with each partici
 This method is used in various applications, such as secure key management, backup systems, distributed signature schemes, and secure multi-party computation.
 
 
-![ Polynomial Encoder ](_poly_encoder.jpg)
+![ Polynomial Encoder ](_poly_encoder.JPG)
